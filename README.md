@@ -57,7 +57,7 @@ A API possui os endpoints:
 
         ** OBS: o endpoint RISCO é autenticado com o tipo de autenticação básica (usuário e senha)
 
-Exemplo:
+Exemplo:12369
 
     http://localhost:8080/
         OU
